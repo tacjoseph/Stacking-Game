@@ -1,2 +1,1 @@
-# Stacking Game
- 
+# StackingGame
